@@ -1,7 +1,7 @@
 # Omar McAdam
 
 Founder-operator building AI-native internet products.
-Started from zero 3 years ago; now shipping at 100x velocity across product, code, and distribution.
+Started from zero 3 years ago (no code skills); now shipping at 100x velocity across product, code, and distribution.
 I turn unclear ideas into launched systems fast, then scale them with ruthless iteration.
 Currently pushing fully agentic code systems where AI owns real engineering workflows.
 Always building. Always shipping.
@@ -12,14 +12,7 @@ Always building. Always shipping.
 - Fully agentic dev systems (idea -> spec -> code -> deploy -> improve).
 - Open, commercial software that compounds through OSS and distribution.
 
-## Proof of execution
-
-- 70,000+ emails processed with 99.99% uptime.
-- UnInbox grown to 5,000+ users with active OSS contributors.
-- Webhook, infra, and developer tools shipped and used in production.
-- Community of 600+ commercial open source founders.
-
-## Projects (sorted by stars)
+## Projects
 
 - [un/inbox](https://github.com/un/inbox) - Modern email for teams and professionals, replacing outdated email tools. (1698 stars)
 - [un/potential](https://github.com/un/potential) - AI health coach to help people live longer, sharper, better. (89 stars)
